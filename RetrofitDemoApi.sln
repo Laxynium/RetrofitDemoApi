@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6AE0DCB9-1155-4BF8-AF95-918C19E9AAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetrofitDemoApi.Api", "src\RetrofitDemoApi.Api\RetrofitDemoApi.Api.csproj", "{B97E25FC-56D4-46CD-B5AA-D528CF7959ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97E25FC-56D4-46CD-B5AA-D528CF7959ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97E25FC-56D4-46CD-B5AA-D528CF7959ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97E25FC-56D4-46CD-B5AA-D528CF7959ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97E25FC-56D4-46CD-B5AA-D528CF7959ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B97E25FC-56D4-46CD-B5AA-D528CF7959ED} = {6AE0DCB9-1155-4BF8-AF95-918C19E9AAA0}
+	EndGlobalSection
+EndGlobal
